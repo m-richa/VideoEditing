@@ -1,0 +1,7 @@
+ref_img_path: "/NAS5/speech/user/richamishra/champ/data/ref_images"
+ref_image_name: "red_blouse"
+
+inpaint_image_path: /NAS5/speech/user/richamishra/champ/data/motions/motion-01/images/0001.png
+mask_path: /NAS5/speech/user/richamishra/champ/data/motions/motion-01/alpha/0001.png
+
+prompt: A woman dressed in a blue dress
