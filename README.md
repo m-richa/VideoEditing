@@ -1,3 +1,4 @@
+Set up the environment as descried in CHAMP and dowload all the pre-trained weights
 1. Select the image to inpaint and the mask in champ/configs/inference_inpaint.yml
 2. Edit the prompt
 3. Run the script run.sh to generate the video
